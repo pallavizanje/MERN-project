@@ -1,0 +1,4 @@
+database-name : codeconnector
+mLab userName : pallavik password: Askme@123$$
+database userName: pallaviku password: pallaviku1
+
